@@ -62,7 +62,7 @@ This project replaces cloud photo storage with a personal server that I fully ow
 5. Install and configure Tailscale on the Pi and all client devices for zero-port-forwarding remote access
 6. Harden SSH (key-based auth only, password auth disabled)
 
-See `docs/setup-notes.md` for the detailed command-by-command walkthrough.
+See `setup-notes.md` for the detailed command-by-command walkthrough.
 
 ## Future Improvements
 
